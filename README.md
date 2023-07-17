@@ -1,7 +1,7 @@
-# netflix-subscription-type-prediction
+# **Netflix Database Analysis: Subscription Prediction**
 
 
-**Netflix Database Analysis: Subscription Prediction**
+
 
 The dataset is downloaded from https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset
 
