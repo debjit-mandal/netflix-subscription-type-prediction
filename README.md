@@ -9,9 +9,9 @@ This model helps to predict the type of Subscription on the basis of Monthly Rev
 
 **To run this code locally:**
 
-1. Fork this reposity
+1. Fork this repository
 2. Clone it using `git clone (repository link)`
-3. Open the `.ipynb` using Jupyter Notebook or any other IDE like PyCharm, VS Code etc.
+3. Open the `.ipynb` file using Jupyter Notebook or any other IDE like PyCharm, VS Code etc.
 
 Feel free to suggest any kind of improvement.
 
